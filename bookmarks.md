@@ -1,30 +1,31 @@
 ## Contents:
-* [Bookmarks Bar](#bookmarks-bar)
 * [Android Development](#android-development)
-* [FOSSASIA / GSoC](#fossasia--gsoc)
-* [Blogs, Blog Posts, Repos and Tutorials](#blogs,-blog-posts,-repos-and-tutorials)
-* [Blog / Repositories Links](#blog--repositories-links)
-* [Blog Posts](#blog-posts)
-* [Logging in Timber](#logging-in-timber)
-* [YouTube and Other Tutorials](#youtube-and-other-tutorials)
+
+        * [FOSSASIA / GSoC](#fossasia--gsoc)
+        * [Blogs, Blog Posts, Repos and Tutorials](#blogs,-blog-posts,-repos-and-tutorials)
+                * [Blog / Repositories Links](#blog--repositories-links)
+                * [Blog Posts](#blog-posts)
+                * [Logging in Timber](#logging-in-timber)
+                * [YouTube and Other Tutorials](#youtube-and-other-tutorials)
+        * [Services / APIs and Advanced Stuff](#services--apis-and-advanced-stuff)
+
+        * [UI/UX Stuff](#ui--ux-stuff)
+        * [StackOverflow et al](#stackoverflow-et-al)
+        * [Other](#other)
+
 * [Other Coding / Research](#other-coding--research)
-Bookmarks
-
-# Bookmarks
-
-## Bookmarks Bar
 
 ## Android Development
 
-## FOSSASIA / GSoC
+### FOSSASIA / GSoC
 
 * [FOSSASIA Event App](https://groups.google.com/forum/#!forum/open-event)
 * [fossasia/open-event-android - Gitter](https://gitter.im/fossasia/open-event-android#)
 * [Processing Proposal - Google Docs](https://docs.google.com/document/d/1UnFDKUZutTczMvkp_X4KKlDGYvUGO_gBtJd66s_Uiqc/edit)
 
-## Blogs, Blog Posts, Repos and Tutorials
+### Blogs, Blog Posts, Repos and Tutorials
 
-## Blog / Repositories Links
+#### Blog / Repositories Links
 
 * [AndroidHive | Tutorials, Games, Apps, Tips |](http://www.androidhive.info/)
 * [creativepsyco's Blog](http://blog.mohitkanwal.com/)
@@ -39,7 +40,7 @@ Bookmarks
 * [afollestad/app-theme-engine](https://github.com/afollestad/app-theme-engine)
 * [naman14/Timber](https://github.com/naman14/Timber)
 
-## Blog Posts
+#### Blog Posts
 
 * [Matt Swanson - Durable Android REST Clients](http://mdswanson.com/blog/2014/04/07/durable-android-rest-clients.html)
 * [Android Support Library 23.2 | Android Developers Blog](http://android-developers.blogspot.in/2016/02/android-support-library-232.html)
@@ -47,7 +48,7 @@ Bookmarks
 * [Great animations with PageTransformer — Medium](https://medium.com/@BashaChris/the-android-viewpager-has-become-a-fairly-popular-component-among-android-apps-its-simple-6bca403b16d4#.32h27ruqi)
 * [Creating an intro screen for your app using ViewPager and PageTransformer — Part 1 — Android & Tech — Medium](https://medium.com/android-news/creating-an-intro-screen-for-your-app-using-viewpager-pagetransformer-9950517ea04f#.szpi648vp)
 
-## Logging in Timber
+#### Logging in Timber
 
 * [Logging with Timber](https://caster.io/episodes/episode-14-logging-with-timber/)
 * [Episode 15: Customizing Timber Behavior - CASTER.IO](https://caster.io/episodes/episode-15-customizing-timber-behavior/)
@@ -59,7 +60,7 @@ Bookmarks
 * [RemoteLogger/MainActivity.java at master · sschendel/RemoteLogger](https://github.com/sschendel/RemoteLogger/blob/master/app/src/main/java/com/rogansoft/remoteloggerdemo/MainActivity.java)
 * [JakeWharton/timber](https://github.com/JakeWharton/timber)
 
-## YouTube and Other Tutorials
+#### YouTube and Other Tutorials
 
 * [DroidCon 2015 Naman Dwivedi](https://docs.google.com/presentation/d/1-5mFMaXcqhSR50a6wiN35yV7-Diu_rdBG0D_OCvBDrQ/edit?pref=2&pli=1#slide=id.p)
 * [An-Droid 101 - Developing Libraries by Nishant Srivastava](http://slides.com/nisrulz/android-101-developing-libraries#/)
