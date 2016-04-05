@@ -1,17 +1,17 @@
 ## Contents:
 * [Android Development](#android-development)
 
-        * [FOSSASIA / GSoC](#fossasia--gsoc)
-        * [Blogs, Blog Posts, Repos and Tutorials](#blogs,-blog-posts,-repos-and-tutorials)
-                * [Blog / Repositories Links](#blog--repositories-links)
-                * [Blog Posts](#blog-posts)
-                * [Logging in Timber](#logging-in-timber)
-                * [YouTube and Other Tutorials](#youtube-and-other-tutorials)
-        * [Services / APIs and Advanced Stuff](#services--apis-and-advanced-stuff)
+    * [FOSSASIA / GSoC](#fossasia--gsoc)
+    * [Blogs, Blog Posts, Repos and Tutorials](#blogs,-blog-posts,-repos-and-tutorials)
+    * [Blog / Repositories Links](#blog--repositories-links)
+    * [Blog Posts](#blog-posts)
+    * [Logging in Timber](#logging-in-timber)
+    * [YouTube and Other Tutorials](#youtube-and-other-tutorials)
+    * [Services / APIs and Advanced Stuff](#services--apis-and-advanced-stuff)
 
-        * [UI/UX Stuff](#ui--ux-stuff)
-        * [StackOverflow et al](#stackoverflow-et-al)
-        * [Other](#other)
+    * [UI/UX Stuff](#ui--ux-stuff)
+    * [StackOverflow et al](#stackoverflow-et-al)
+    * [Other](#other)
 
 * [Other Coding / Research](#other-coding--research)
 
