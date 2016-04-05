@@ -8,7 +8,6 @@
     * [Logging in Timber](#logging-in-timber)
     * [YouTube and Other Tutorials](#youtube-and-other-tutorials)
     * [Services / APIs and Advanced Stuff](#services--apis-and-advanced-stuff)
-
     * [UI/UX Stuff](#ui--ux-stuff)
     * [StackOverflow et al](#stackoverflow-et-al)
     * [Other](#other)
