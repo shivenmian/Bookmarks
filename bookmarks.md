@@ -47,7 +47,7 @@
 * [Great animations with PageTransformer — Medium](https://medium.com/@BashaChris/the-android-viewpager-has-become-a-fairly-popular-component-among-android-apps-its-simple-6bca403b16d4#.32h27ruqi)
 * [Creating an intro screen for your app using ViewPager and PageTransformer — Part 1 — Android & Tech — Medium](https://medium.com/android-news/creating-an-intro-screen-for-your-app-using-viewpager-pagetransformer-9950517ea04f#.szpi648vp)
 
-#### Logging in Timber
+#### Logging in Timber + CrashLytics
 
 * [Logging with Timber](https://caster.io/episodes/episode-14-logging-with-timber/)
 * [Episode 15: Customizing Timber Behavior - CASTER.IO](https://caster.io/episodes/episode-15-customizing-timber-behavior/)
