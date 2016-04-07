@@ -1,6 +1,6 @@
 #Bookmarks
 
-A list of useful links I bookmarked on my Chrome. 
+A list of useful links I bookmarked on my Chrome over time. 
 
 Most of them are on Android, and they are really random of sorts, but pretty interesting. 
 
