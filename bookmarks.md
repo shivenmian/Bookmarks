@@ -87,7 +87,6 @@
 * [Android UI Patterns](http://www.androiduipatterns.com/)
 * [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/)
 * [Material Design Development Documentation Blog](http://www.materialdoc.com/)
-* 
 
 ### StackOverflow et al
 
