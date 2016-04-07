@@ -35,6 +35,7 @@
 * [(5) What are must-read Android developer blogs? - Quora](https://www.quora.com/What-are-must-read-Android-developer-blogs)
 * [Arnav Gupta blog](http://blog.championswimmer.in/)
 * [OmerJerk | A work blog](http://omerjerk.in/)
+* [Codepath | Android Development Blog](https://guides.codepath.com/android)
 * [Aidan — Projects](http://aidanfollestad.com/projects)
 * [afollestad/app-theme-engine](https://github.com/afollestad/app-theme-engine)
 * [naman14/Timber](https://github.com/naman14/Timber)
@@ -85,6 +86,8 @@
 * [Free vector icons - SVG, PSD, PNG, EPS & Icon Font - Thousands of free icons](http://www.flaticon.com/)
 * [Android UI Patterns](http://www.androiduipatterns.com/)
 * [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/)
+* [Material Design Development Documentation Blog](http://www.materialdoc.com/)
+* 
 
 ### StackOverflow et al
 
